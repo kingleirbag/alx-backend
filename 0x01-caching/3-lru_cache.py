@@ -8,8 +8,7 @@ from base_caching import BaseCaching
 
 
 class LRUCache(BaseCaching):
-    '''A class `LRUCache` that inherits from
-       `BaseCaching` and is a caching system
+    '''Class LRUCache that inherits from BaseCaching and is a caching system
     '''
 
     def __init__(self):
