@@ -9,7 +9,8 @@ from base_caching import BaseCaching
 
 
 class FIFOCache(BaseCaching):
-    '''Class FIFOCache that inherits from BaseCaching and is a caching system.
+    '''A class `FIFOCache` that inherits from
+       `BaseCaching` and is a caching system.
     '''
 
     def __init__(self):
